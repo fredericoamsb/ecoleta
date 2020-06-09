@@ -2,9 +2,9 @@
 Next Level Week 1 week by Rocketseat
 
 ### :rocket: Technologies
-- Back-end: [Node.js](https://nodejs.org), [Nodemon](https://nodemon.io), [Express.js](https://expressjs.com) e [SQLite](https://www.sqlite.org);
-- Front-end: [React](https://reactjs.org/);
-- Mobile: [React Native](https://reactnative.dev) e [Expo](https://expo.io/).
+- Back-end: [Node.js](https://nodejs.org), [Nodemon](https://nodemon.io), [Express.js](https://expressjs.com) and [SQLite](https://www.sqlite.org);
+- Front-end: [React](https://reactjs.org);
+- Mobile: [React Native](https://reactnative.dev) and [Expo](https://expo.io).
 
 ### :camera: Screenshots
 
